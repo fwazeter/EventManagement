@@ -9,6 +9,9 @@
       "WazFactor\\EventManager\\": "src/"
     }
   },
+  "require": {
+    "php": "^8.0"
+  },
   "authors": [
     {
       "name": "Frank Wazeter",
