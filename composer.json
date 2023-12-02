@@ -1,0 +1,24 @@
+{
+  "name": "wazfactor/event-manager",
+  "description": "A reusable event management package for WordPress plugins",
+  "type": "library",
+  "version": "1.0.0",
+  "keywords": ["wordpress", "plugin", "event manager", "action hooks", "filter hooks"],
+  "autoload": {
+    "psr-4": {
+      "WazFactor\\EventManager\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Frank Wazeter",
+      "email": "frank@wazeter.com"
+    }
+  ],
+  "license": "GPL-2.0-or-later",
+  "homepage": "https://wazfactor.com/",
+  "minimum-stability": "stable",
+  "require-dev": {
+    "phpunit/phpunit": "^10.5"
+  }
+}
