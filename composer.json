@@ -1,5 +1,5 @@
 {
-  "name": "wazfactor/event-manager",
+  "name": "wazfactor/event-manager-for-wp",
   "description": "A reusable event management package for WordPress plugins",
   "type": "library",
   "version": "1.0.0",
